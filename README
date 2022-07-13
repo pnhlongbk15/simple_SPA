@@ -1,2 +1,1 @@
-ghép link bằng :
-tag a có attribute herf = path của route thì render content
+tag <a> has attribute "href" = path of route(in js) => render content
